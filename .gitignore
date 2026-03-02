@@ -1,0 +1,15 @@
+# Map files
+*.bsp
+*.wav
+*.mp3
+*.spr
+*.mdl
+*.res
+*.tga
+*.txt
+
+# Archive files
+*.7z
+*.zip
+*.rar
+*.txt.bz2
